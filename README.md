@@ -236,7 +236,7 @@ Git Bash will sometimes complain about spaces in your parameters, as well as cer
 java -jar pset4-tester.java surroundMe "<<>>" abc
 java -jar pset4-tester.jar countMe "these are just some sample words" e
 ```
-It is your responsibility to thoroughly test your code. The grading script will randomly generate 20 test cases. You will receive ¼ of a point for each test case your code successfully passes.
+It is your responsibility to thoroughly test your code. The grading script will randomly generate 100 test cases. You will receive five-hundredths of a point for each test case your code successfully passes.
 
 ## Deadline
 
